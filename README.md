@@ -1,6 +1,6 @@
 # Algorithms
 
-- Projeto com o objetivo de resolver problemas e otimizar algoritmos já desenvolvidos utilizando lógica e implementando soluções diferentes para problemas do dia a dia.
+- Projeto visando resolver problemas e otimizar algoritmos já desenvolvidos utilizando lógica e implementando soluções diferentes para problemas do dia a dia.
 
 ---
 
