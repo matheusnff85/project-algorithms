@@ -12,13 +12,11 @@
 
 # Como Utilizar a aplicação
 
-## Importante :warning:
-
   1. Clone o repositório
 
   - Use o comando: `git clone git@github.com:matheusnff85/project-algorithms.git`
   - Entre na pasta do repositório que você acabou de clonar:
-    - `cd sd-020-b-inventory-report`
+    - `cd project-algorithms`
 
   2. Crie o ambiente virtual para o projeto
 
