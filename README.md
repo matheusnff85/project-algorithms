@@ -1,10 +1,35 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Algorithms
+
+- Projeto com o objetivo de resolver problemas e otimizar algoritmos já desenvolvidos utilizando lógica e implementando soluções diferentes para problemas do dia a dia.
+
+---
+
+# Tecnologias utilizadas :books:
+
+- Python
+
+---
+
+# Como Utilizar a aplicação
+
+## Importante :warning:
+
+  1. Clone o repositório
+
+  - Use o comando: `git clone git@github.com:matheusnff85/project-algorithms.git`
+  - Entre na pasta do repositório que você acabou de clonar:
+    - `cd sd-020-b-inventory-report`
+
+  2. Crie o ambiente virtual para o projeto
+
+  - `python3 -m venv .venv && source .venv/bin/activate`
+  
+  3. Instale as dependências
+
+  - `python3 -m pip install -r dev-requirements.txt`
+
+  4. Após isso os desafios realizados podem ser visualizados na pasta `/challenges`.
+
+---
+
+- Desenvolvido por [Matheus Marinho](https://www.linkedin.com/in/matheus-marinhodsp/).
